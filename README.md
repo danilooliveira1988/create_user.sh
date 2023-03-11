@@ -5,3 +5,5 @@ Cria 3 grupos de usuários e atrela com os respectivos grupos;
 Diretório público com permissão total para todos os usuários;
 Usuários de cada grupo tem permissão total dentro de seu respectivo diretório;
 Usuários não tem nenhum acesso a outros diretórios fora de seu grupo.
+
+Conhecimentos passados pelo professor Denilson Bonatti.

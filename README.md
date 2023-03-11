@@ -1,0 +1,1 @@
+Bash Script para criar usuários no linux, definindo o root como dono de todas as pastas, pasta público com permissão total para todos os usuários, usuários de cada grupo tendo permissão total dentro de seu respectivo diretório, usuários não podem ver outros diretórios fora de seu grupo
